@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Build and Test
+
+GitHub: https://github.com/TECHCareers-by-Manpower/react-redux-router-practice-calculator-T-Ralph <br />
+GitHub.IO Page: https://t-ralph.github.io/javascript-calculator-react-router-redux/
