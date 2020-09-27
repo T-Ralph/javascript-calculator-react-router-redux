@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/javascript-calculator-react-router-redux/static/css/main.6871bd4e.chunk.css",
+    "main.js": "/javascript-calculator-react-router-redux/static/js/main.64eef53b.chunk.js",
+    "main.js.map": "/javascript-calculator-react-router-redux/static/js/main.64eef53b.chunk.js.map",
+    "runtime-main.js": "/javascript-calculator-react-router-redux/static/js/runtime-main.7a883bcd.js",
+    "runtime-main.js.map": "/javascript-calculator-react-router-redux/static/js/runtime-main.7a883bcd.js.map",
+    "static/js/2.89de6af6.chunk.js": "/javascript-calculator-react-router-redux/static/js/2.89de6af6.chunk.js",
+    "static/js/2.89de6af6.chunk.js.map": "/javascript-calculator-react-router-redux/static/js/2.89de6af6.chunk.js.map",
+    "index.html": "/javascript-calculator-react-router-redux/index.html",
+    "precache-manifest.e99fc1c07dc2b712b43610a4d6e0f011.js": "/javascript-calculator-react-router-redux/precache-manifest.e99fc1c07dc2b712b43610a4d6e0f011.js",
+    "service-worker.js": "/javascript-calculator-react-router-redux/service-worker.js",
+    "static/css/main.6871bd4e.chunk.css.map": "/javascript-calculator-react-router-redux/static/css/main.6871bd4e.chunk.css.map",
+    "static/js/2.89de6af6.chunk.js.LICENSE.txt": "/javascript-calculator-react-router-redux/static/js/2.89de6af6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/javascript-calculator-react-router-redux/static/media/background.bd283081.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a883bcd.js",
+    "static/js/2.89de6af6.chunk.js",
+    "static/css/main.6871bd4e.chunk.css",
+    "static/js/main.64eef53b.chunk.js"
+  ]
+}
